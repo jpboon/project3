@@ -16,9 +16,9 @@ features:
 - per gradatie een test afnemen 
 - De optie om alleen een enkel onderdeel te testen (kihon/woorden vertalen/voetstanden)
 - per gradatie extra informatie bekijken (kumite/regels)
-- Voor bovenstaande de optie om ook alle onderliggende gradaties mee te nemen
+- Voor alle bovenstaande de optie om ook alle onderliggende gradaties mee te nemen
 - Historie bijhouden van uitgevoerde tests
-- twee talig (EN/NL)
+- tweetalig (EN/NL)
 
 Used technologies:
 - MVC model
