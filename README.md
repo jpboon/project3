@@ -7,6 +7,7 @@ Project’s title:
 Umi Ryu Exam Trainer 
 
 Project's information:
+
 Een app waarmee je je kan voorbereiden voor een examen voor Umi Ryu Karate.
 Er zijn mogelijkheden om per gradatie een test te doen en om overige informatie te bekijken.
 Als er plaatjes beschikbaar zijn zullen deze worden getoond.
