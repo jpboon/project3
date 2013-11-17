@@ -19,6 +19,7 @@ features:
 - Voor alle bovenstaande de optie om ook alle onderliggende gradaties mee te nemen
 - Historie bijhouden van uitgevoerde tests
 - tweetalig (EN/NL)
+- voor meerdere users beschikbaar
 
 Used technologies:
 - MVC model
